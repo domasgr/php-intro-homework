@@ -1,0 +1,19 @@
+{
+    "name": "domas/php-intro-homework",
+    "description": "Homework exercise for php intro lecture",
+    "require": {
+        "moontoast/math": "^1.1"
+    },
+    "require-dev": {
+        "brick/math": "^0.8.5"
+    },
+    "autoload": {
+        "files": ["src/functions.php", "src/functions_strict.php"]
+    },
+    "authors": [
+        {
+            "name": "Dominykas Grubys",
+            "email": "dominykas.grubys@gmail.com"
+        }
+    ]
+}
